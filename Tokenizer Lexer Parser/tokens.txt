@@ -1,0 +1,1 @@
+{"0": ["Triangle", "myTriangle"], "1": ["myTriangle", ".", "setParameters", "(", "1", "4.5", "6", ")"], "2": ["myTriangle", ".", "setVertices", "(", "\"A\"", "\"B\"", "\"C\"", ")"], "3": ["myTriangle", ".", "draw", "(", ")"], "4": ["asdadada"]}
